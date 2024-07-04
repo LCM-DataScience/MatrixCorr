@@ -1,4 +1,4 @@
-Análise de Matrizes de Correlação - Identificando problemas e soluções
+Análise de Matriz de Correlação - Identificando problemas e soluções
 
 
 Outra importante ferramenta para análise de dados, ela nos ajuda a entender a relação entre diferentes ativos e indicadores. Neste estudo é demonstrado como essa técnica pode ser aplicada na solução de problemas no mercado financeiro.
